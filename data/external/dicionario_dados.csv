@@ -1,0 +1,26 @@
+variavel,significado,tipo,subtipo
+ID,Identificador,Quantitativo,Continuo
+LIMIT_BAL,Limite de crédito,Quantitativo,Continuo
+SEX,Gênero,Qualitativo,Nominal
+MARRIAGE,Estado civil,Qualitativo,Nominal
+EDUCATION,Escolaridade,Qualitativo,Ordinal
+AGE,Idade,Quantitativo,Continuo
+PAY_0,Status do reembolso em setembro de 2005 ,Quantitativo,Discreto
+PAY_2,Status do reembolso em agosto de 2005,Quantitativo,Discreto
+PAY_3,Status do reembolso em julho de 2005,Quantitativo,Discreto
+PAY_4,Status do reembolso em julho de 2005,Quantitativo,Discreto
+PAY_5,Status do reembolso em julho de 2005,Quantitativo,Discreto
+PAY_6,Status do reembolso em julho de 2005,Quantitativo,Discreto
+BILL_AMT1,"Valor da fatura em Setembro, 2005 ",Quantitativo,Continuo
+BILL_AMT2,"Valor da fatura em Agosto, 2005 ",Quantitativo,Continuo
+BILL_AMT3,"Valor da fatura em Julho , 2005 ",Quantitativo,Continuo
+BILL_AMT4,"Valor da fatura em Junho , 2005 ",Quantitativo,Continuo
+BILL_AMT5,"Valor da fatura em Maio , 2005 ",Quantitativo,Continuo
+BILL_AMT6,"Valor da fatura em Abril , 2005 ",Quantitativo,Continuo
+PAY_AMT1,"Valor do pagamento anterior em Setembro, 2005 ",Quantitativo,Continuo
+PAY_AMT2,"Valor do pagamento anterior em Agosto, 2005 ",Quantitativo,Continuo
+PAY_AMT3,"Valor do pagamento anterior em Julho, 2005 ",Quantitativo,Continuo
+PAY_AMT4,"Valor do pagamento anterior em Junho, 2005 ",Quantitativo,Continuo
+PAY_AMT5,"Valor do pagamento anterior em Maio, 2005 ",Quantitativo,Continuo
+PAY_AMT6,"Valor do pagamento anterior em Abril, 2005 ",Quantitativo,Continuo
+default payment next month,Inadimplência,Quantitativo,Discreto
